@@ -9,4 +9,4 @@
 
 - [HAN](https://www.aclweb.org/anthology/N16-1174/)の論文を参考
 - レシピの手順を入力とする
-- 手順内と手順間の関連性を考慮
+- 手順内と手順間の関連性をAttentionにより考慮
